@@ -6,7 +6,7 @@
 
 <h4 align="center">-💼 Competidor da Sp SKills pelo Senai</h4>
 <h4 align="center">-☁️ Computação em Nuvem AWS</h4>
-<h4 align="center">-⚡️ Analise Desenvolvimento de Sistemas </h4>
+<h4 align="center">-⚡️ Desenvolvedor Web </h4>
 
 <h3 align="center">Meu perfil no Linkedin:</h3>
 
